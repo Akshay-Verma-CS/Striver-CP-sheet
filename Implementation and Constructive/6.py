@@ -18,4 +18,4 @@ for i in range(t):
     query=int(input())
     ans=solve(query)
     print(len(ans))
-    print(" ".join(list(map(str,ans))))
+    print(" ".join(list(map(str,ans))))   

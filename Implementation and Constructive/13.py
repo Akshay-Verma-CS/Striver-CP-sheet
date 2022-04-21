@@ -1,3 +1,4 @@
+# 116A - Tram
 n = int(input())
 maxx=0
 current_cap = 0
